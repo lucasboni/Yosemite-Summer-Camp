@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <!-- Branca. -->
+    <color name="colorPrimary">#FFFFFF</color>
+
+    <!-- Branca. -->
+    <color name="colorPrimaryDark">#FFFFFF</color>
+
+    <!-- Laranja. -->
+    <color name="colorAccent">#FF774B</color>
+
+    <!-- Cinza escuro. -->
+    <color name="colorDarkGrey">#414651</color>
+
+    <!-- Cinza médio. -->
+    <color name="colorMediumGrey">#BBBBBB</color>
+
+    <!-- Roxo escuro. -->
+    <color name="colorDarkPurple">#422E8C</color>
+
 </resources>
